@@ -1,0 +1,3 @@
+include README.md
+include requirements.txt
+recursive-include src/easy_mcp/certs *.pem 
