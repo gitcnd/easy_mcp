@@ -129,7 +129,9 @@ Add this to your `~/.cursor/mcp.json` file (File -> Preferences -> Cursor-Settin
 # Example Run
 
 ![Cursor MCP Panel](./images/cursor_mcp_panel.png)
+
 ![Example Outbound Connection](./images/example_outbound_connection.png)
+
 ![Example Query](./images/example_query.png)
 
 Example server log output from above:-
